@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on digital image processing🛰️, earth observation🌍 and land use-based🗺️ computer vision💻 with a focus on machine learning👾 and deep learning🧠 applications. <br><br><br>🎓 BSc degree, Geomatics Engineering at Gebze Technical University<br>👨‍🏫 Research Scholar at Gebze Technical University<br>🌽Team Leader at FlyGeo Teknofest Team<br>
+Currently working on digital image processing🛰️, earth observation🌍 and land use-based🗺️ computer vision💻 with a focus on machine learning👾 and deep learning🧠 applications. <br><br><br>👨‍🏫 Research Assisstant at Gebze Technical University<br>
 
 
 ## 🌐 Socials:
